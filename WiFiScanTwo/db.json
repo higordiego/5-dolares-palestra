@@ -1,0 +1,301 @@
+[
+  {
+    "Nr": "1",
+    "SSID": "brisa-176289",
+    "BSSID": "14:22:33:46:26:70",
+    "RSSI": "-50",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "2",
+    "SSID": "brisa-3233951",
+    "BSSID": "30:DE:4B:E4:17:4C",
+    "RSSI": "-58",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "3",
+    "SSID": "REBECA_NAPOLEAO",
+    "BSSID": "D4:92:5E:06:C3:EA",
+    "RSSI": "-61",
+    "CH": "11",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "4",
+    "SSID": "CLARO_WR_ADVOGADOS",
+    "BSSID": "D4:92:5E:94:C6:DD",
+    "RSSI": "-63",
+    "CH": "11",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "5",
+    "SSID": "brisa-1089786",
+    "BSSID": "00:67:62:9F:89:C8",
+    "RSSI": "-66",
+    "CH": "8",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "6",
+    "SSID": "brisa-1519877",
+    "BSSID": "1C:3B:F3:4A:18:24",
+    "RSSI": "-86",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "7",
+    "SSID": "HVTECH",
+    "BSSID": "2.4",
+    "RSSI": "14:AB:02:27:A8:80",
+    "CH": "-87",
+    "Encryption": "4"
+  },
+  {
+    "Nr": "8",
+    "SSID": "INEC",
+    "BSSID": "C4:44:7D:94:64:E4",
+    "RSSI": "-91",
+    "CH": "11",
+    "Encryption": "WPA+WPA2"
+  },
+  {
+    "Nr": "5",
+    "SSID": "ESPACO",
+    "BSSID": "RECONECTAR",
+    "RSSI": "B0:16:56:F8:B9:C8",
+    "CH": "-76",
+    "Encryption": "1"
+  },
+  {
+    "Nr": "6",
+    "SSID": "INOBELLE",
+    "BSSID": "CLINICA",
+    "RSSI": "E8:13:6E:0A:65:C0",
+    "CH": "-86",
+    "Encryption": "1"
+  },
+  {
+    "Nr": "7",
+    "SSID": "Repetidor",
+    "BSSID": "Paula",
+    "RSSI": "E8:65:D4:B5:4A:21",
+    "CH": "-91",
+    "Encryption": "6"
+  },
+  {
+    "Nr": "7",
+    "SSID": "brisa-3317800",
+    "BSSID": "00:31:92:75:BF:E5",
+    "RSSI": "-90",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "9",
+    "SSID": "iPhone",
+    "BSSID": "de",
+    "RSSI": "Giulia",
+    "CH": "7A:13:EC:2F:AA:57",
+    "Encryption": "-91"
+  },
+  {
+    "Nr": "8",
+    "SSID": "brisa-3288029",
+    "BSSID": "E8:48:B8:18:A6:7B",
+    "RSSI": "-90",
+    "CH": "8",
+    "Encryption": "WPA2",
+    "location": {
+      "latitude": -7.225344,
+      "longitude": -39.3314304,
+      "endereco": "R. Antonio Domingos dos Santos, 357 - Antonio Vieira, Juazeiro do Norte - CE, 63022-270, Brazil"
+    }
+  },
+  {
+    "Nr": "9",
+    "SSID": "CLASSE",
+    "BSSID": "A_2G/5G",
+    "RSSI": "88:40:33:97:FC:34",
+    "CH": "-91",
+    "Encryption": "8",
+    "location": null
+  },
+  {
+    "Nr": "9",
+    "SSID": "[LG_Wall-Mount",
+    "BSSID": "A/C]8d80",
+    "RSSI": "1E:39:29:88:8D:80",
+    "CH": "-94",
+    "Encryption": "11",
+    "location": null
+  },
+  {
+    "Nr": "7",
+    "SSID": "Home-NC",
+    "BSSID": "44:DF:65:EE:31:95",
+    "RSSI": "-90",
+    "CH": "6",
+    "Encryption": "WPA2",
+    "location": {
+      "latitude": -7.225344,
+      "longitude": -39.3314304,
+      "endereco": "R. Antonio Domingos dos Santos, 357 - Antonio Vieira, Juazeiro do Norte - CE, 63022-270, Brazil"
+    }
+  },
+  {
+    "Nr": "8",
+    "SSID": "BRENDA",
+    "BSSID": "E",
+    "RSSI": "TERESA",
+    "CH": "5C:62:8B:D3:1C:A8",
+    "Encryption": "-92",
+    "location": null
+  },
+  {
+    "Nr": "9",
+    "SSID": "UNIP-ALUNO",
+    "BSSID": "24:A4:3C:BD:72:67",
+    "RSSI": "-95",
+    "CH": "1",
+    "Encryption": "WPA2",
+    "location": {
+      "latitude": -7.225344,
+      "longitude": -39.3314304,
+      "endereco": "R. Antonio Domingos dos Santos, 357 - Antonio Vieira, Juazeiro do Norte - CE, 63022-270, Brazil"
+    }
+  },
+  {
+    "Nr": "2",
+    "SSID": "Higor",
+    "BSSID": "Diego",
+    "RSSI": "4A:06:29:78:F3:A1",
+    "CH": "-48",
+    "Encryption": "6",
+    "location": null
+  },
+  {
+    "Nr": "2",
+    "SSID": "ESTACIO-VISITANTES",
+    "BSSID": "E8:1C:BA:DA:3B:5A",
+    "RSSI": "-70",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "3",
+    "SSID": "ESTACIO-ACAD",
+    "BSSID": "E8:1C:BA:DA:3B:58",
+    "RSSI": "-70",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "4",
+    "SSID": "ESTACIO-CORP",
+    "BSSID": "E8:1C:BA:DA:3B:59",
+    "RSSI": "-70",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "5",
+    "SSID": "K12+_3402",
+    "BSSID": "7E:F3:1B:A0:FE:72",
+    "RSSI": "-72",
+    "CH": "1",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "12",
+    "SSID": "cristiano@itelecom",
+    "BSSID": "12:C1:23:82:40:1C",
+    "RSSI": "-76",
+    "CH": "11",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "14",
+    "SSID": "WIFI_CEL",
+    "BSSID": "6A:5D:77:22:C2:5F",
+    "RSSI": "-77",
+    "CH": "1",
+    "Encryption": "WPA3"
+  },
+  {
+    "Nr": "18",
+    "SSID": "jonas.lindo",
+    "BSSID": "EE:27:05:AA:7A:8B",
+    "RSSI": "-87",
+    "CH": "11",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "19",
+    "SSID": "VIROUSES",
+    "BSSID": "B2:F0:2F:D5:E1:C6",
+    "RSSI": "-88",
+    "CH": "11",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "23",
+    "SSID": "DIDAS02",
+    "BSSID": "98:DA:C4:3B:00:92",
+    "RSSI": "-92",
+    "CH": "11",
+    "Encryption": "WPA+WPA2"
+  },
+  {
+    "Nr": "12",
+    "SSID": "Riolo",
+    "BSSID": "10:47:38:07:7B:A9",
+    "RSSI": "-78",
+    "CH": "4",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "16",
+    "SSID": "MOB-JORDAN",
+    "BSSID": "C4:44:7D:94:7B:BC",
+    "RSSI": "-79",
+    "CH": "3",
+    "Encryption": "WPA+WPA2"
+  },
+  {
+    "Nr": "22",
+    "SSID": "soareszf_",
+    "BSSID": "9A:AA:00:FE:D9:A2",
+    "RSSI": "-91",
+    "CH": "6",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "24",
+    "SSID": "Rog\u00e9rio",
+    "BSSID": "78:3E:A1:EC:81:29",
+    "RSSI": "-92",
+    "CH": "4",
+    "Encryption": "WPA2"
+  },
+  {
+    "Nr": "20",
+    "SSID": "FAMILIA",
+    "BSSID": "OLIVEIRA",
+    "RSSI": "E0:19:54:CC:A3:97",
+    "CH": "-85",
+    "Encryption": "9"
+  },
+  {
+    "Nr": "16",
+    "SSID": "brisa-3421551",
+    "BSSID": "6C:5A:B0:65:6B:BA",
+    "RSSI": "-82",
+    "CH": "8",
+    "Encryption": "WPA2"
+  }
+]
