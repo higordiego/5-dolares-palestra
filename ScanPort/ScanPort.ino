@@ -5,7 +5,7 @@ const char *ssid = "Wifi";
 const char *password = "";
 
 IPAddress ips[255];
-int currentIpIndex = 0;
+int currentIpIndex = 1;
 int ports[] = {80, 22, 443};
 
 void setup() {
@@ -32,18 +32,14 @@ void scanner() {
   if (currentIpIndex >= 255) {
     currentIpIndex = 0;
   }
-
   byte firstThreeOctets[3];
   IPAddress localIP = WiFi.localIP();
-  for (int i = 0; i < 3; i++) {
+  for (int i = 0; i < 255; i++) {
     firstThreeOctets[i] = localIP[i];
   }
-
   IPAddress ipToTest(firstThreeOctets[0], firstThreeOctets[1], firstThreeOctets[2], currentIpIndex);
-
   // Data structure to store the results
   String resultJSON = "{\"results\": [";
-
   for (int j = 0; j < sizeof(ports) / sizeof(ports[0]); j++) {
     WiFiClient client;
     if (client.connect(ipToTest, ports[j])) {
@@ -55,14 +51,11 @@ void scanner() {
       resultJSON += "{\"ip\": \"" + ipToTest.toString() + "\", \"port\": " + String(ports[j]) + ", \"status\": \"failed\"},";
     }
   }
-
   resultJSON.remove(resultJSON.length() - 1); // Remove a vírgula extra no final
   resultJSON += "]}";
-
   // Increment the index for the next IP in the next call
   currentIpIndex++;
-
-  // sendResultsToServer(resultJSON);
+  sendResultsToServer(resultJSON);
 }
 
 void sendResultsToServer(String json) {
