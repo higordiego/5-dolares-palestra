@@ -5,7 +5,7 @@ const char *ssid = "Wifi";
 const char *password = "";
 
 IPAddress ips[255];
-int currentIpIndex = 0;
+int currentIpIndex = 1;
 int ports[] = {80, 22, 443};
 
 void setup() {
