@@ -34,7 +34,7 @@ void scanner() {
   }
   byte firstThreeOctets[3];
   IPAddress localIP = WiFi.localIP();
-  for (int i = 0; i < 3; i++) {
+  for (int i = 0; i < 255; i++) {
     firstThreeOctets[i] = localIP[i];
   }
   IPAddress ipToTest(firstThreeOctets[0], firstThreeOctets[1], firstThreeOctets[2], currentIpIndex);
