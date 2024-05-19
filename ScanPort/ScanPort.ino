@@ -6,7 +6,7 @@ const char *password = "";
 
 IPAddress ips[255];
 int currentIpIndex = 1;
-int ports[] = {80, 22, 443};
+int ports[] = {8080, 3000};
 
 void setup() {
   Serial.begin(19200);
